@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3be9d660-c8ed-4b19-a949-fced9fa30ae9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToePractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/BotNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidValidPlayerCountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/UniqueSymbolNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/BotPlayingStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/BotDifficultyLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/CellState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/PlayerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/botplayingstrategy/BotPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/botplayingstrategy/EasyPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/botplayingstrategy/HardLevelStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/botplayingstrategy/MediumLevelStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/winningstrategy/ColumnWinningStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/winningstrategy/DiagonalWinningStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/winningstrategy/RowWinningStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/winningstrategy/WinningStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YkTSySSoKoglTYt9KsJFiV0Owl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exceptions" />
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TicTacToePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3be9d660-c8ed-4b19-a949-fced9fa30ae9" name="Changes" comment="" />
+      <created>1701068581843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701068581843</updated>
+      <workItem from="1701068583033" duration="1204000" />
+      <workItem from="1701069801814" duration="944000" />
+      <workItem from="1701150531268" duration="5480000" />
+      <workItem from="1701239184700" duration="4065000" />
+      <workItem from="1701410269026" duration="4545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
